@@ -123,4 +123,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dev.to/0012303/openalex-api-search-250m-research-papers-for-free-no-api-key-needed-dkm</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/spinov001-art/openalex-research-tools</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.7</priority>
+  </url>
 </urlset>
