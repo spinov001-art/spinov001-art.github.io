@@ -11,11 +11,6 @@
   <url><loc>https://github.com/spinov001-art/mcp-market-research</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://github.com/spinov001-art/free-api-collection</loc><lastmod>2026-04-04</lastmod><priority>0.7</priority></url>
   <url><loc>https://github.com/spinov001-art/mcp-servers-collection</loc><lastmod>2026-04-04</lastmod><priority>0.7</priority></url>
-  <url><loc>https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://dev.to/0012303/npm-registry-api-discover-packages-in-any-tech-niche-no-key-needed-5e34</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://dev.to/0012303/arxiv-api-search-2m-research-papers-programmatically-no-key-59i6</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://github.com/Spinov001-art/prompt-engineering-guide</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://github.com/Spinov001-art/ai-tools-comparison</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://github.com/Spinov001-art/free-apis-list</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
@@ -105,29 +100,6 @@
     <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dev.to/0012303/i-built-51-github-repos-in-10-days-here-is-what-actually-got-traffic-np0</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dev.to/0012303/pypi-has-a-secret-json-api-analyze-any-python-package-without-installing-it-56io</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dev.to/0012303/build-an-ai-knowledge-base-from-youtube-rag-innertube-api-no-api-key-4i4c-temp-slug-2966294</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dev.to/0012303/openalex-api-search-250m-research-papers-for-free-no-api-key-needed-dkm</loc>
-    <lastmod>2026-04-04</lastmod>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://github.com/spinov001-art/openalex-research-tools</loc>
